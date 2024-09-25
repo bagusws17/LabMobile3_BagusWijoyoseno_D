@@ -32,4 +32,4 @@ Ardicture
     - Mengimplementasikan logika logout dengan menghapus status login dari SharedPreferences dan mengalihkan kembali ke LoginPage.
 
 ## Demo
-![https://github.com/bagusws17/LabMobile3_BagusWijoyoseno_D/blob/main/tugas3/tugas3.gif](tugas3.gif)
+<video src='(https://github.com/bagusws17/LabMobile3_BagusWijoyoseno_D/blob/main/tugas3/tugas3.gif)' width=180/>
