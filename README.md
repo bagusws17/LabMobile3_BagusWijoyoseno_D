@@ -11,8 +11,8 @@ Ardicture
     File ini adalah titik masuk aplikasi. Ini mengatur tema dan halaman awal aplikasi berdasarkan status login pengguna.
 
     Fungsi:
-  - Menggunakan `FutureBuilder` untuk memeriksa status login saat aplikasi dimulai.
-  - Menampilkan `LoginPage` jika pengguna belum masuk dan `HomePage` jika pengguna sudah masuk.
+    - Menggunakan `FutureBuilder` untuk memeriksa status login saat aplikasi dimulai.
+    - Menampilkan `LoginPage` jika pengguna belum masuk dan `HomePage` jika pengguna sudah masuk.
 
 2. login_page.dart
     Halaman ini menyediakan antarmuka untuk pengguna melakukan login. Terdapat dua field input untuk username dan password.
